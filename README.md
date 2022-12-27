@@ -1,2 +1,2 @@
 # appleSeedsCss
-folders html and css for learning
+files html and css for learning.
